@@ -5,7 +5,7 @@ description: This is a repository of google safe browsing APIs, self-contained a
   operations.
 image: http://template.streamdata.gallery/assets/google-safe-browsing.png
 created: "2018-02-24"
-modified: "2018-06-20"
+modified: "2018-06-25"
 url: http://google-safe-browsing.streamdata.gallery/apis.json
 specificationVersion: "0.14"
 apis: []
