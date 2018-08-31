@@ -1,0 +1,33 @@
+{
+	"name": "Streadata.io API Gallery - Google Safe Browsing",
+	"description": "This is a repository of google safe browsing APIs, self-contained as a Github repository, with HTML and YAML representations of the APIs and their surrounding operations.",
+	"image": "http://template.streamdata.gallery/assets/google-safe-browsing.png",
+	"created": "2018-02-24",
+	"modified": "2018-08-30",
+	"url": "http://google-safe-browsing.streamdata.gallery/apis.json",
+	"specificationVersion": "0.14",
+	"apis": [
+		{
+			"name": "Google Safe Browsing",
+			"x-api-slug": "google-safe-browsing",
+			"description": "The Safe Browsing APIs (v4) let your client applications check URLs against Googles constantly updated lists of unsafe web resources. Examples of unsafe web resources are social engineering sites (phishing and deceptive sites) and sites that host malware or unwanted software. Any URL found on a Safe Browsing list is considered unsafe.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/SafeBrowsing_Icon.png",
+			"humanURL": "https://developers.google.com/safe-browsing/",
+			"baseURL": "://safebrowsing.googleapis.com//",
+			"tags": "Google Safe Browsing",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-organizations/google-safe-browsing/master/_listings/google-safe-browsing/openapi.md"
+				}
+			]
+		}
+	],
+	"tags": "Google Safe Browsing",
+	"include": [
+		{
+			"name": "Google Safe Browsing",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-organizations/google-safe-browsing/master/_listings/google-safe-browsing/apis.yaml"
+		}
+	]
+}
